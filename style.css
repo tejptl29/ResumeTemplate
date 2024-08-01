@@ -119,6 +119,25 @@ section:nth-child(odd) {
     font-family: 'Times New Roman', Times, serif;
 }
 
+#about.block .icon{
+
+    background-color: #ddd;
+}
+
+#exp .block h2{
+    color: #0ef;
+}
+
+#exp .block p{
+    font-size: 12px;
+}
+
+#exp .block h3{
+    color: rgb(199, 186, 186);
+}
+
+
+
 /* Responsive css */
 @media screen and (max-width: 920px) {
 
