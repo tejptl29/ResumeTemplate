@@ -136,7 +136,10 @@ section:nth-child(odd) {
     color: rgb(199, 186, 186);
 }
 
-
+#contact .block h2{
+    color: #0ef;
+    text-align: center;
+}
 
 /* Responsive css */
 @media screen and (max-width: 920px) {
